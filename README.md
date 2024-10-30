@@ -6,7 +6,7 @@
 </p></picture>
 </p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=CassiaVoltolin=brightgreen" alt="watching_count" />
  </p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
@@ -18,9 +18,9 @@
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
+- 🌱 I’m currently studying DSM at Fatec Jahu
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
+- 💬 Ask me about books
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never thought I would become a .net programmer!
@@ -63,9 +63,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=CassiaVoltolin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CassiaVoltolin&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaVoltolin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
 </a>
 </div>
@@ -79,7 +79,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
+        <a   target="_blank" href="9https://www.linkedin.com/in/](https://www.linkedin.com/feed/update/urn:li:activity:7254667190275108864/)">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
