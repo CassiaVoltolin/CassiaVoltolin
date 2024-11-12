@@ -79,7 +79,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="9https://www.linkedin.com/in/](https://www.linkedin.com/feed/update/urn:li:activity:7254667190275108864/)">
+       <a href="https://www.linkedin.com/in/c%C3%A1ssia-voltolin-32517a193/" target="_blank">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
